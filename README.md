@@ -3,7 +3,7 @@
 ## Steps to Setup
 
 1. Clone the repository:
-git clone [https://github.com/yourusername/fancode-automation.git](https://github.com/vinaypatel1437/fancode-assignment) cd fancode-automation
+git clone [https://github.com/vinaypatel1437/fancode-assignment.git](https://github.com/vinaypatel1437/fancode-assignment) cd fancode-automation
 
 
 2. Install dependencies:
